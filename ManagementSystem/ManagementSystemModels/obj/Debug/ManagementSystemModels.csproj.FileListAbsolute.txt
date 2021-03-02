@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemModels\bin\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemModels\bin\Debug\ManagementSystemModels.pdb
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemModels\obj\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemModels\obj\Debug\ManagementSystemModels.pdb
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemModels\bin\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemModels\bin\Debug\ManagementSystemModels.pdb
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemModels\obj\Debug\ManagementSystemModels.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemModels\obj\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemModels\obj\Debug\ManagementSystemModels.pdb

@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemDal.dll
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemDal.pdb
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemModels.pdb
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.csproj.CopyComplete
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.dll
+C:\Users\dell\Desktop\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.pdb
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemDal.dll
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemDal.pdb
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemModels.dll
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\bin\Debug\ManagementSystemModels.pdb
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.csproj.CopyComplete
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.dll
+C:\Users\dell\Desktop\数据库课设\ManagementSystem\ManagementSystemDal\obj\Debug\ManagementSystemDal.pdb
