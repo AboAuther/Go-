@@ -26,3 +26,12 @@ const中每新增一行常量声明将使iota计数一次(iota可理解为const�
 %v  输出值value
 %s  输出字符串类型
 %#v 输出值并加一个描述符
+
+字符串的常用操作
+len(str)	                            求长度
++或fmt.Sprintf	                       拼接字符串
+strings.Split	                        分割
+strings.contains	                    判断是否包含
+strings.HasPrefix,strings.HasSuffix	  前缀/后缀判断
+strings.Index(),strings.LastIndex()	  子串出现的位置
+strings.Join(a[]string, sep string)	  join操作
