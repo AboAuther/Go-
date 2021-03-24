@@ -39,7 +39,7 @@ func readFromFile(){
 }
 
 
-//利用bufio 这个包读文件
+//利用Bufio 这个包读文件
 func readFromFileByBufio(){
 
 	fileObj,err:=os.Open("./main.go")
